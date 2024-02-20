@@ -2,8 +2,7 @@ package com.accenture.generics;
 
 import java.util.Arrays;
 
-public class thirdTask<T> {
-
+public class thirdTask {
 
     public static <T extends Comparable<T>> T[] sorting(T[] sorting) {
         Arrays.sort(sorting);

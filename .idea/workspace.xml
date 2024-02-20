@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eebfcd6d-6de5-4f1b-b0dc-58083bc8eb3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accenture/generics/fifthTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accenture/generics/firstTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accenture/generics/fourthTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accenture/generics/secondTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/accenture/generics/thirdTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/accenture/generics/thirdTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/accenture/generics/thirdTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +64,7 @@
       <recent name="com.accenture.comaparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.accenture.generics.fifthTask">
+  <component name="RunManager" selected="Application.thirdTask">
     <configuration name="com.accenture.generics.fifthTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.accenture.generics.fifthTask" />
       <module name="animal-shelter" />
@@ -138,9 +132,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.thirdTask" />
         <item itemvalue="Application.com.accenture.generics.fifthTask" />
         <item itemvalue="Application.com.accenture.generics.fourthTask" />
-        <item itemvalue="Application.thirdTask" />
         <item itemvalue="Application.com.accenture.generics.secondTask" />
         <item itemvalue="Application.com.accenture.generics.firstTask" />
       </list>
