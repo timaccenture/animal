@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eebfcd6d-6de5-4f1b-b0dc-58083bc8eb3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/accenture/generics/fifthTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/accenture/generics/firstTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/accenture/generics/fourthTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/accenture/generics/secondTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/accenture/generics/thirdTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +45,10 @@
   "keyToString": {
     "Application.App.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.com.accenture.generics.fifthTask.executor": "Run",
+    "Application.com.accenture.generics.firstTask.executor": "Run",
+    "Application.com.accenture.generics.fourthTask.executor": "Run",
+    "Application.com.accenture.generics.secondTask.executor": "Run",
     "Application.fifthTask.executor": "Run",
     "Application.firstTask.executor": "Run",
     "Application.fourthTask.executor": "Run",
@@ -59,13 +70,13 @@
       <recent name="com.accenture.comaparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.fifthTask">
-    <configuration name="fifthTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.accenture.excercises.fifthTask" />
+  <component name="RunManager" selected="Application.com.accenture.generics.fifthTask">
+    <configuration name="com.accenture.generics.fifthTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.accenture.generics.fifthTask" />
       <module name="animal-shelter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.accenture.excercises.*" />
+          <option name="PATTERN" value="com.accenture.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="firstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.accenture.excercises.firstTask" />
+    <configuration name="com.accenture.generics.firstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.accenture.generics.firstTask" />
       <module name="animal-shelter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.accenture.excercises.*" />
+          <option name="PATTERN" value="com.accenture.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fourthTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.accenture.excercises.fourthTask" />
+    <configuration name="com.accenture.generics.fourthTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.accenture.generics.fourthTask" />
       <module name="animal-shelter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.accenture.excercises.*" />
+          <option name="PATTERN" value="com.accenture.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="secondTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.accenture.excercises.secondTask" />
+    <configuration name="com.accenture.generics.secondTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.accenture.generics.secondTask" />
       <module name="animal-shelter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.accenture.excercises.*" />
+          <option name="PATTERN" value="com.accenture.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sixthTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.accenture.excercises.sixthTask" />
+    <configuration name="thirdTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.accenture.generics.thirdTask" />
       <module name="animal-shelter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.accenture.excercises.*" />
+          <option name="PATTERN" value="com.accenture.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.fifthTask" />
-        <item itemvalue="Application.fourthTask" />
-        <item itemvalue="Application.firstTask" />
-        <item itemvalue="Application.secondTask" />
-        <item itemvalue="Application.sixthTask" />
+        <item itemvalue="Application.com.accenture.generics.fifthTask" />
+        <item itemvalue="Application.com.accenture.generics.fourthTask" />
+        <item itemvalue="Application.thirdTask" />
+        <item itemvalue="Application.com.accenture.generics.secondTask" />
+        <item itemvalue="Application.com.accenture.generics.firstTask" />
       </list>
     </recent_temporary>
   </component>
